@@ -1,0 +1,6 @@
+Santa’s Helpers Java, Object Oriented Programming
+
+• Built a CLI application that simulates the process of Christmas gifts dissemination to children depending on a
+nice-score, preference, budget, city, age and assigned elf.
+• Shaped the application using the Strategy Design Pattern in order to compute the budget depending on the
+nice-score and assigned elf.
